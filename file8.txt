@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html>
+<head>
+	<title></title>
+</head>
 <body>
-
-<script>
-window.onbeforeunload = function(e) {
-  var dialogText = '';
-  e.returnValue = dialogText;
-  return dialogText;
-};
-</script>
-
+		<h1>Hi friend</h1>
+		
 </body>
 </html>
